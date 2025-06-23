@@ -1,0 +1,1 @@
+# 002-Harbour-MiniGUI-openConnection-ODBC-MySQL
