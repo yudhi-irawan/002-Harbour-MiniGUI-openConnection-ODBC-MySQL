@@ -36,7 +36,8 @@ Create table and insert data:
 -click GO
 </pre>
 <br>
-<br><span class="font-weight-bold">This example requires MySql ODBC Connector at: </span>
+<br>
+<span class="font-weight-bold">This example requires MySql ODBC Connector at: </span>
 <i>	
 <a href="https://downloads.mysql.com/archives/c-odbc/">https://downloads.mysql.com/archives/c-odbc/</a>
 <br>🌱🌱🌱<br>
